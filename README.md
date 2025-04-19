@@ -1,12 +1,12 @@
 # Local AI Fall Auditing Tool
 
-🧠 **A privacy-first AI nursing assistant that uses on-device LLMs to audit resident progress notes for falls.**
+ **A privacy-first AI nursing assistant that uses on-device LLMs to audit resident progress notes for falls.**
 
 This tool runs entirely offline using [llamafile](https://github.com/Mozilla-Ocho/llamafile) and the `Qwen2.5-7B-Instruct` model. It was built to help aged care nurses and quality teams quickly screen large volumes of progress notes for possible fall incidents — without sending any sensitive data to the cloud.
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 You’ll need:
 

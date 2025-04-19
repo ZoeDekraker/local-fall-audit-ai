@@ -31,7 +31,7 @@ subprocess
 
 ## 🖥️ Screenshot
 
-![Fall Auditing Tool GUI](Screenshot of GUI.png)
+![Fall Auditing Tool GUI](Screenshot.png)
 
 ---
 

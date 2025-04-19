@@ -34,6 +34,10 @@ subprocess
 ![Fall Auditing Tool GUI](Screenshot.png)
 
 ---
+📥 [Download the latest Windows binary](https://github.com/ZoeDekraker/local-fall-audit-ai/releases)
+
+
+---
 
 ## 🚀 How to Run
 

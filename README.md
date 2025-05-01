@@ -14,36 +14,30 @@ You’ll need:
   - `llamafile-0.9.0.exe`
   - `Qwen2.5-7B-Instruct-Q4_K_M.gguf`
 - Python 3.9 or later
-- The following Python packages:
-
-```
-tk
-ttk
-csv
-json
-textwrap
-subprocess
-```
-
-> You can install dependencies via `pip install tk` — the others are standard Python libraries.
+- The following are standard Python libraries (no installation needed):
+  - `ttk`
+  - `csv`
+  - `json`
+  - `textwrap`
+  - `subprocess`
 
 ---
 
-## 🖥️ Screenshot
+##  Screenshot
 
 ![Fall Auditing Tool GUI](Screenshot.png)
 
 ---
-📥 [Download the latest Windows binary](https://github.com/ZoeDekraker/local-fall-audit-ai/releases)
+ [Download the latest Windows binary](https://github.com/ZoeDekraker/local-fall-audit-ai/releases)
 
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Make sure you have **Python 3.9+** installed.
 2. Download or clone this repo.
-3. Place the required `.exe` and `.gguf` files in a folder of your choice.
+3. Place the required `.exe` and `.gguf` files in a folder of your choice. (update script with folder name)
 4. Run the script:
 
 ```
@@ -57,7 +51,7 @@ python fall_audit_final_qwen_brain.py
 
 ---
 
-## 📦 Output Format
+##  Output Format
 
 A `.csv` file will be generated with two columns:
 
@@ -67,14 +61,14 @@ A `.csv` file will be generated with two columns:
 
 ---
 
-## 🔐 Privacy
+##  Privacy
 
 This app is 100% offline.  
 No cloud processing, no internet required — your resident data **never leaves your device**.
 
 ---
 
-## ⚠️ Legal Disclaimer
+## ⚠ Legal Disclaimer
 
 By downloading, installing, and using this tool—including running the code and implementing its AI features—you agree that you do so entirely at your own risk.
 
